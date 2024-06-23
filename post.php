@@ -21,7 +21,7 @@
       align-items: center;
       min-height: 100vh;
       flex-direction: column;
-      background-image: url(wave.svg);
+      background-image: url(wave.jpeg);
       background-size: cover;
 
     }
